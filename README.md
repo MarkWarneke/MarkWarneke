@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+- I’m currently working on 
+  - 👨‍💻 Cloud & DevOps Consulting @Microsoft
+  - 📄 Terraform and GitOps CI/CD [MarkWarnekeMe/Microsoft](https://github.com/MarkWarnekeMe/Microsoft)
+  - 🐍 Python FastAPI for Azure Cognitive Services [@mmmint.ai](https://github.com/mmmint-ai)
+  - 📜 TypeScript Nest.js & Vue.js [@mmmint.ai](https://github.com/mmmint-ai)
+- 📫 Checkout [markwarneke.me](https://www.markwarneke.me) and reach me 🐤 [@MarkWarneke](www.twitter.com/MarkWarneke)
+
+
 <!--
 **MarkWarneke/MarkWarneke** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
