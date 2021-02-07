@@ -1,7 +1,6 @@
 ### Hi there 👋
 
 - I’m currently working on 
-  - 👨‍💻 Cloud & DevOps Consulting @Microsoft
   - 📄 Terraform and GitOps CI/CD [MarkWarnekeMe/Microsoft](https://github.com/MarkWarnekeMe/Microsoft)
   - 🐍 Python FastAPI for Azure Cognitive Services [@mmmint.ai](https://github.com/mmmint-ai)
   - 📜 TypeScript Nest.js & Vue.js [@mmmint.ai](https://github.com/mmmint-ai)
