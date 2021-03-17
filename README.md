@@ -6,10 +6,10 @@
 
 ### 
 
-- 👨‍💻 Software Engineer React & dotnet core @Microsoft
-- 📄 Terraform and GitOps CI/CD [MarkWarnekeMe/Microsoft](https://github.com/MarkWarnekeMe/Microsoft)
-- 🐍 Python FastAPI for Azure Cognitive Services [@mmmint.ai](https://github.com/mmmint-ai)
-- 📜 TypeScript Nest.js & Vue.js [@mmmint.ai](https://github.com/mmmint-ai)
+- 👨‍💻 Software Engineer - React & .NET Core  [@Microsoft](https://microsoft.com).
+- 📄 Open Source - Terraform and GitOps CI/CD [MarkWarnekeMe/Microsoft](https://github.com/MarkWarnekeMe/Microsoft).
+- 🐍 Open Source - Azure CLI Python Wrapper [MarkWarneke/Az.Cli](https://github.com/MarkWarneke/Az.Cli).
+- 🌚 Moonlighting - TypeScript Nest.js & Vue.js | Python FastAPI [@mmmint.ai](https://github.com/mmmint-ai).
 
 
 
