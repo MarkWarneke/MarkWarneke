@@ -1,10 +1,16 @@
-### Hi there 👋
+<h2 align="center">Hi there ✌️</h2>
+<p align="center">
+  📫 <a href="https://markwarneke.me">markwarneke.me</a> •
+  🐤 <a href="https://twitter.com/MarkWarneke">@MarkWarneke</a>
+</p>
 
-- I’m currently working on 
-  - 📄 Terraform and GitOps CI/CD [MarkWarnekeMe/Microsoft](https://github.com/MarkWarnekeMe/Microsoft)
-  - 🐍 Python FastAPI for Azure Cognitive Services [@mmmint.ai](https://github.com/mmmint-ai)
-  - 📜 TypeScript Nest.js & Vue.js [@mmmint.ai](https://github.com/mmmint-ai)
-- 📫 Checkout [markwarneke.me](https://www.markwarneke.me) and reach me 🐤 [@MarkWarneke](https://www.twitter.com/MarkWarneke)
+### 
+
+- 👨‍💻 Software Engineer React & dotnet core @Microsoft
+- 📄 Terraform and GitOps CI/CD [MarkWarnekeMe/Microsoft](https://github.com/MarkWarnekeMe/Microsoft)
+- 🐍 Python FastAPI for Azure Cognitive Services [@mmmint.ai](https://github.com/mmmint-ai)
+- 📜 TypeScript Nest.js & Vue.js [@mmmint.ai](https://github.com/mmmint-ai)
+
 
 
 <!--
