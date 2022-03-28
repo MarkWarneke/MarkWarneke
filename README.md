@@ -6,5 +6,4 @@
 
 ### 
 
-👨‍💻 Software Engineer - [@Microsoft](https://microsoft.com).  
 🥚 Co-Founder - TypeScript Nest.js & Vue.js | Python FastAPI [@mmmint.ai](https://github.com/mmmint-ai).
