@@ -6,4 +6,4 @@
 
 ### 
 
-🥚 Co-Founder - TypeScript Nest.js & Vue.js | Python FastAPI [@mmmint.ai](https://github.com/mmmint-ai).
+🥚 Co-Founder [@mmmint.ai](https://github.com/mmmint-ai) - TypeScript Nest.js & Vue.js | Python FastAPI 
